@@ -1,4 +1,6 @@
 cat > README.md << 'EOF'
+why da fuck do you need this line?! ^^^
+
 # Hi, I'm Amir Shacham 👋
 
 > "Every expert was once a beginner. Every commit started with git init."
