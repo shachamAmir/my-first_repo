@@ -1,22 +1,37 @@
 cat > README.md << 'EOF'
-# 01 - First Git Repo In Class
+# Hi, I'm Amir Shacham 👋
 
-A beginner Git repository created as part of a DevOps course.
+> "Every expert was once a beginner. Every commit started with git init."
 
-## About
-This project was created to practice basic Git and GitHub workflows including initializing a repository, making commits, and pushing to GitHub.
+## About Me
+DevOps student based in Israel, learning Git, Linux, and cloud infrastructure — building things one commit at a time.
 
-## Files
-- `main.js` - JavaScript file
-- `style.css` - CSS stylesheet
-- `baba.txt` - Text file
+## Skills in Progress
+| Skill | Level |
+|-------|-------|
+| Git | ⭐⭐⭐⭐ |
+| Python | ⭐⭐⭐ |
+| Linux | ⭐⭐⭐ |
+| VS Code | ⭐⭐⭐⭐ |
+| GitHub | ⭐⭐⭐ |
 
-## What I Learned
-- How to initialize a Git repository with `git init`
-- How to stage and commit files with `git add` and `git commit`
-- How to connect a local repo to GitHub with `git remote add origin`
-- How to push code to GitHub with `git push`
+## Learning Next
+- 🐳 Docker
+- 🔄 CI/CD
+- ☸️ Kubernetes
+- ☁️ AWS
+- 🏗️ Terraform
 
-## Author
-Amir Shacham · DevOps Course 2026
+## My Journey
+- 🚀 Started DevOps Course 2026
+- 🐍 Built first Python project — a jokes app
+- 🌿 Mastered Git workflows (init, commit, revert, reset, branches)
+- 🌍 Pushed first repo live on GitHub
+
+## Projects
+- **jokes.py** — A Python jokes app with functions and user input
+- **01-first-git-repo-in-class** — First Git repo created in class
+
+## Connect
+- GitHub: [github.com/shachamAmir](https://github.com/shachamAmir)
 EOF
